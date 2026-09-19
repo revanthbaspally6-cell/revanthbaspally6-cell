@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Revanth Baspally 👋
-### 🚀 Computer Science Engineer | Applied AI & Full-Stack Systems Builder
+### 🚀 Computer Science Engineer | Applied AI & Full-Stack Systems Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/revanthbaspally6-cell)
@@ -20,7 +20,7 @@ class SoftwareEngineer:
             "Industrial ML & Anomaly Detection",
             "Systems & Concurrent Algorithms"
         ]
-        self.languages = ["Python", "JavaScript", "TypeScript", "C", "C++", "Java", "SQL"]
+        self.languages = ["Python", "JavaScript", "TypeScript", "Java", "C", "C++", "SQL"]
 ```
 
 </div>
@@ -28,12 +28,15 @@ class SoftwareEngineer:
 ---
 
 ### 🌟 About Me
-- 🔭 **Flagship AI Systems**:
-  - **[PresentAI](https://github.com/revanthbaspally6-cell/PresentAI)** — Multi-modal presentation coaching platform with real-time MediaPipe iris/head tracking & Whisper ASR acoustics.
+- 🔭 **Flagship AI & Machine Learning Systems**:
+  - **[PresentAI](https://github.com/revanthbaspally6-cell/PresentAI)** — Multi-modal presentation coaching platform with real-time MediaPipe iris/head tracking & Faster-Whisper speech acoustics.
   - **[Diabetic Retinopathy Screening](https://github.com/revanthbaspally6-cell/Diabetic-Retinopathy-Screening)** — Explainable AI (Grad-CAM) & ResNet-50 medical imaging diagnostic pipeline (SIH MathWorks Prototype).
   - **[Smart-Fab Early Warning](https://github.com/revanthbaspally6-cell/Smart-Fab-Predictive-Maintenance)** — Semiconductor manufacturing disruption prediction with Isolation Forest & Streamlit Control Tower.
-- 💻 **Full-Stack & Systems**: Built **CodeConnect** (React + Node.js), **Mini_OS_Scheduler** (C OS scheduling algorithms), and **Disaster Evacuation System** (JavaFX Dynamic Graph Routing).
-- 💬 **Ask me about**: Computer Vision (MediaPipe, OpenCV), Deep Learning (PyTorch, ResNet, Grad-CAM), React/TypeScript, Node.js, and Algorithmic Optimization.
+- 💻 **Full-Stack, Desktop & Systems**:
+  - **[CodeConnect Platform](https://github.com/revanthbaspally6-cell/code-connect-frontend)** — Full-stack developer networking platform (React 18 + Node.js/Express + MongoDB).
+  - **[Mini_OS_Scheduler](https://github.com/revanthbaspally6-cell/Mini_OS_Scheduler)** — C-based CPU scheduling algorithm simulator with Gantt charts and performance metrics.
+  - **[Disaster Evacuation System](https://github.com/revanthbaspally6-cell/disaster-evacuation-system)** — Dynamic hazard routing visualizer (JavaFX, Multi-Source Dijkstra, Floyd-Warshall).
+  - **[VCE Campus ChatBot](https://github.com/revanthbaspally6-cell/VCE-Campus-ChatBot)** — Java Swing campus virtual assistant with intent classification and serialized persistence.
 
 ---
 
@@ -43,7 +46,7 @@ class SoftwareEngineer:
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) |
 | **AI, ML & CV** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Faster-Whisper](https://img.shields.io/badge/Faster_Whisper-412991?style=flat-square&logo=openai&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
@@ -103,12 +106,12 @@ class SoftwareEngineer:
       <p><b>Tech:</b> C, OS Concurrency, Scheduling Algorithms, GCC</p>
     </td>
     <td width="50%">
-      <h3 align="center">🚨 Disaster Evacuation System</h3>
+      <h3 align="center">🎓 VCE Campus ChatBot</h3>
       <p align="center">
-        <a href="https://github.com/revanthbaspally6-cell/disaster-evacuation-system"><b>View Repository →</b></a>
+        <a href="https://github.com/revanthbaspally6-cell/VCE-Campus-ChatBot"><b>View Repository →</b></a>
       </p>
-      <p>Java & JavaFX dynamic emergency routing visualizer applying Multi-Source Dijkstra and Floyd-Warshall algorithms across evolving hazard zones.</p>
-      <p><b>Tech:</b> Java 17, JavaFX, Graph Algorithms, Maven</p>
+      <p>Java Swing campus assistant for Vasavi College with custom animated typing indicators, dynamic chat bubbles, serialized user authentication, and multi-domain intent query resolution.</p>
+      <p><b>Tech:</b> Java, Swing/AWT GUI, Object Serialization, NLP Pattern Matching</p>
     </td>
   </tr>
 </table>
