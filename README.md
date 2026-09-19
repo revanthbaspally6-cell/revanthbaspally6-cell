@@ -34,9 +34,10 @@ class SoftwareEngineer:
   - **[Smart-Fab Early Warning](https://github.com/revanthbaspally6-cell/Smart-Fab-Predictive-Maintenance)** — Semiconductor manufacturing disruption prediction with Isolation Forest & Streamlit Control Tower.
 - 💻 **Full-Stack, Desktop & Systems**:
   - **[CodeConnect Platform](https://github.com/revanthbaspally6-cell/code-connect-frontend)** — Full-stack developer networking platform (React 18 + Node.js/Express + MongoDB).
-  - **[Mini_OS_Scheduler](https://github.com/revanthbaspally6-cell/Mini_OS_Scheduler)** — C-based CPU scheduling algorithm simulator with Gantt charts and performance metrics.
+  - **[Smart City Civic Issue System](https://github.com/revanthbaspally6-cell/Smart-City-Civic-Isuue-Reporting-System)** — Java Swing & MySQL DAO enterprise municipal grievance resolution system.
   - **[Disaster Evacuation System](https://github.com/revanthbaspally6-cell/disaster-evacuation-system)** — Dynamic hazard routing visualizer (JavaFX, Multi-Source Dijkstra, Floyd-Warshall).
-  - **[VCE Campus ChatBot](https://github.com/revanthbaspally6-cell/VCE-Campus-ChatBot)** — Java Swing campus virtual assistant with intent classification and serialized persistence.
+  - **[Mini_OS_Scheduler](https://github.com/revanthbaspally6-cell/Mini_OS_Scheduler)** — C-based CPU scheduling algorithm simulator with Gantt charts and performance metrics.
+  - **[VCE Campus ChatBot](https://github.com/revanthbaspally6-cell/VCE-Campus-ChatBot)** — Java Swing campus assistant with intent classification and serialized persistence.
 
 ---
 
@@ -50,7 +51,7 @@ class SoftwareEngineer:
 | **AI, ML & CV** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Faster-Whisper](https://img.shields.io/badge/Faster_Whisper-412991?style=flat-square&logo=openai&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Databases & DevOps** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **Databases & DevOps** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
@@ -98,20 +99,20 @@ class SoftwareEngineer:
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">⚡ Mini_OS_Scheduler</h3>
+      <h3 align="center">🏙️ Smart City Civic Grievance System</h3>
       <p align="center">
-        <a href="https://github.com/revanthbaspally6-cell/Mini_OS_Scheduler"><b>View Repository →</b></a>
+        <a href="https://github.com/revanthbaspally6-cell/Smart-City-Civic-Isuue-Reporting-System"><b>View Repository →</b></a>
       </p>
-      <p>High-performance C CPU scheduling simulator modeling process lifecycles and comparative benchmarks for FCFS, SJF, and Round Robin with ASCII Gantt charts.</p>
-      <p><b>Tech:</b> C, OS Concurrency, Scheduling Algorithms, GCC</p>
+      <p>Enterprise municipal grievance reporting platform utilizing the Data Access Object (DAO) pattern, JDBC connectivity, normalized MySQL schema, and multi-role Swing dashboards.</p>
+      <p><b>Tech:</b> Java, Swing/AWT, MySQL, JDBC, DAO Pattern</p>
     </td>
     <td width="50%">
-      <h3 align="center">🎓 VCE Campus ChatBot</h3>
+      <h3 align="center">🚨 Disaster Evacuation System</h3>
       <p align="center">
-        <a href="https://github.com/revanthbaspally6-cell/VCE-Campus-ChatBot"><b>View Repository →</b></a>
+        <a href="https://github.com/revanthbaspally6-cell/disaster-evacuation-system"><b>View Repository →</b></a>
       </p>
-      <p>Java Swing campus assistant for Vasavi College with custom animated typing indicators, dynamic chat bubbles, serialized user authentication, and multi-domain intent query resolution.</p>
-      <p><b>Tech:</b> Java, Swing/AWT GUI, Object Serialization, NLP Pattern Matching</p>
+      <p>Java & JavaFX dynamic emergency routing visualizer applying Multi-Source Dijkstra and Floyd-Warshall algorithms across evolving hazard zones.</p>
+      <p><b>Tech:</b> Java 17, JavaFX, Graph Algorithms, Maven</p>
     </td>
   </tr>
 </table>
@@ -121,12 +122,15 @@ class SoftwareEngineer:
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revanthbaspally6-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthbaspally6-cell&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
+  <img src="https://streak-stats.demolab.com/?user=revanthbaspally6-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revanthbaspally6-cell&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://img.shields.io/github/followers/revanthbaspally6-cell?label=Followers&style=for-the-badge&logo=github&color=2563EB" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-00C7B7?style=for-the-badge&logo=git&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Focus-Applied_AI_%26_Full_Stack-7928CA?style=for-the-badge" alt="Focus" />
 </div>
 
 ---
