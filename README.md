@@ -3,7 +3,7 @@
 # Hi there, I'm Revanth Baspally 👋
 ### 🚀 Computer Science Engineer | Applied AI & Full-Stack Systems Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/revanth-baspally-974033294)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/revanthbaspally6-cell)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:revanthbaspally6@gmail.com)
 
